@@ -26,8 +26,8 @@
     <a href="https://discordapp.com/invite/cJR6jRd">
         <img src="https://img.shields.io/discord/661653357165019144?logo=discord"
             alt="chat on Discord"></a>
-    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
-        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
+    <a href="https://twitter.com/intent/follow?screen_name=aniwuey">
+        <img src="https://img.shields.io/twitter/follow/aniwuey?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
 
