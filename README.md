@@ -2,7 +2,7 @@
 
 <p>The tea api is an image api for getting random images of <span>tea</span>. For users wanting to add something fresh to their discord bot. Project or website.</p>
 
-###Installation
+### Installation
 What things you require to get the api working.
 
 *Javascript*
