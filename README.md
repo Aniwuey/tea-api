@@ -8,7 +8,7 @@ What things you require to get the api working.
 *Javascript*<br>
 *Required Packages in package.json*
 
-https://discordapp.com/api/guilds/661653357165019144/widget.json
+<iframe src="https://discordapp.com/widget?id=661653357165019144&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 ## Built With
 
