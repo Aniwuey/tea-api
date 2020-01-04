@@ -5,7 +5,7 @@
 ### Installation
 What things you require to get the api working.
 
-*Javascript*
+*Javascript*<br>
 *Required Packages in package.json*
 
 
