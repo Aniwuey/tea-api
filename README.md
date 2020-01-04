@@ -8,6 +8,8 @@ What things you require to get the api working.
 *Javascript*<br>
 *Required Packages in package.json*
 
+https://discordapp.com/api/guilds/661653357165019144/widget.json
+
 ## Built With
 
 * [Javascript](https://discord.js.org/#/) The library used
