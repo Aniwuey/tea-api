@@ -18,7 +18,6 @@ What things you require to get the api working.
 *Javascript*<br>
 *Required Packages in package.json*
 
-https://img.shields.io/discord/661653357165019144.svg?style=for-the-badge
 
 ## Built With
 
