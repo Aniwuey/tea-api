@@ -1,10 +1,6 @@
 # 2020 Tea Api
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/badges/shields/master/frontend/images/logo.svg?sanitize=true"
-        height="130">
-</p>
-<p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
     <a href="#backers" alt="Backers on Open Collective">
@@ -27,8 +23,8 @@
     <a href="https://github.com/badges/shields/compare/gh-pages...master">
         <img src="https://img.shields.io/github/commits-since/badges/shields/gh-pages?label=commits%20to%20be%20deployed"
             alt="commits to be deployed"></a>
-    <a href="https://discord.gg/HjJCwm5">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+    <a href="https://discordapp.com/invite/cJR6jRd">
+        <img src="https://img.shields.io/discord/661653357165019144?logo=discord"
             alt="chat on Discord"></a>
     <a href="https://twitter.com/intent/follow?screen_name=shields_io">
         <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
